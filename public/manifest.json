@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "KernelPulse - Hacker & Dev Network",
+  "short_name": "KernelPulse",
+  "description": "Mobile collaboration platform for programmers and hackers featuring live pair programming, sprint matchmaking, code editor, and developer milestones.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/src/assets/images/developer_hacker_avatar_1793109904736.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
